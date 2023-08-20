@@ -19,4 +19,4 @@ Hi I am Semih
 ---
 [![](https://visitcount.itsvg.in/api?id=seymensemih&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seymensemih&show_icons=true&locale=en" alt="seymensemih" /></p>
