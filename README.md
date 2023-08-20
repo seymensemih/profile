@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=seymensemih&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=seymensemih&theme=tokyonight&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seymensemih)](https://github.com/seymensemih/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seymensemih&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seymensemih&size_weight=2&count_weight=2)
 
 
 
