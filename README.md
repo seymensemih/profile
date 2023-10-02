@@ -41,15 +41,15 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api?username=seymensemih&theme=black-ice&hide_border=true&include_all_commits=false&count_private=false&bg_color=0D1117" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=seymensemih&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=seymensemih&theme=black-ice&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seymensemih&theme=black-ice&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&bg_color=0D1117" />
 </p>
 
 
