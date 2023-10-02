@@ -41,7 +41,7 @@
 </p>
 
 <p align="center"><img 
-        src="https://github-readme-stats.vercel.app/api?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false/></p>    
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical/></p>    
 <p align="center">
     <a href="https://github.com/seymensemih">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak"
@@ -50,7 +50,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/seymensemih"><img alt="seymensemih's Github Stats"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical" />
+            src="https://github-readme-stats.vercel.app/api?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
      </a>
 </p>
 
