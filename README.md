@@ -41,11 +41,7 @@
 </p>
 
 <p align="center">
-      
-![](https://github-readme-stats.vercel.app/api?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=seymensemih&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical)
-      
+    <img src="https://github-readme-stats.vercel.app/api?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
 </p>
 
 
