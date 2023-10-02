@@ -41,6 +41,7 @@
 </p>
 
 <p align="center">
+      <a href="https://github.com/seymensemih">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical/></p>    
 <p align="center">
     <a href="https://github.com/seymensemih">
