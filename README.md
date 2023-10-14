@@ -48,7 +48,7 @@
 
 <p >
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0D1117" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=seymensemih&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=seymensemih&theme=tokyonight&hide_border=true&" />
 </p>
 
 <p align="center">
