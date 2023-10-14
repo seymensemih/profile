@@ -46,6 +46,7 @@
     
 </p>
 
+<div>
 <p >
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=seymensemih&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=seymensemih&theme=tokyonight&hide_border=false"/>
@@ -53,8 +54,10 @@
 
 </br>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seymensemih&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=donut-vertical" width="1000px" height="250px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seymensemih&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=donut-vertical"/>
 </p>
+      
+</div>
 
  <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seymensemih&theme=tokyonight" width="100%" />
