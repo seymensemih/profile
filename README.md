@@ -52,11 +52,11 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&stroke=0000&background=060A0CD0" />
 </p>
 
  <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seymensemih&theme=github_dark" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seymensemih&theme=tokyonight" width="100%" />
       </span></a>
   </p>
 
