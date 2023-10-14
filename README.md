@@ -46,8 +46,8 @@
     
 </p>
 
-<div>
-<p >
+<div style="padding:20px;">
+<p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=seymensemih&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=seymensemih&theme=tokyonight&hide_border=false"/>
 </p>
