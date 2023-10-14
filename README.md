@@ -47,16 +47,17 @@
 </p>
 
 <p >
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&stroke=0000&background=060A0CD0" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=seymensemih&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+    <img align="right" src=https://github-readme-streak-stats.herokuapp.com/?user=seymensemih&theme=tokyonight&hide_border=true/>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&stroke=0000&background=060A0CD0" />
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical/>
 </p>
 
  <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seymensemih&theme=tokyonight" width="100%" />
       </span></a>
   </p>
+
 
