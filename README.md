@@ -95,7 +95,7 @@
     </div>
     <p align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&hide_progress=true&layout=donut-verticalt" width="450px"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=seymensemih&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&hide_progress=true&layout=donut-vertical" width="450px"/>
     </p>
 
 <p align="center">
