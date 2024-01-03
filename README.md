@@ -62,14 +62,6 @@
         alt="Gimp"
       />
       <img
-        src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"
-        alt="NumPy"
-      />
-      <img
-        src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"
-        alt="keras"
-      />
-      <img
         src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
         alt="Linux"
       />
